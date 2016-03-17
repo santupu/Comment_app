@@ -6,7 +6,7 @@ Users can see the upvotes and downvotes of own comments ans other users also aft
 They can also edit the profiles.
 #Start the app.
 ###0. Download the zip folder or pull this to your machine.
-###1. Open the terminal and install the npm by typing $npm install.
+###1. Open the terminal and install the packages by typing $npm install.
 ###2. Start the server by typing $node server.js on terminal.It listen port:3000
 ###3. open the app on browser by //localhost/3000 port.
 ###4. Sign up and Post the Comments and see the all users Comments.
